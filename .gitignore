@@ -1,0 +1,26 @@
+
+!.gitignore
+.DS_Store
+__pycache__/
+.idea
+
+# Python:
+*.pyc
+*.so
+*.egg
+*.egg-info
+
+# local env files
+.env.local
+.env.*.local
+.env
+
+# Editor dire
+ctories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
